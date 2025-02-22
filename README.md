@@ -1,17 +1,16 @@
 # bouncing-ball-game/bouncing-ball-game/README.md
 # Bouncing Ball Game
 
-This is a simple 2D bouncing ball game built using Python and Pygame. The objective of the game is to control a paddle and keep the ball bouncing on the screen.
+Ini adalah game bola pantul 2D sederhana yang dibuat dengan Python dan Pygame. Tujuan game ini adalah mengendalikan paddle agar bola tetap memantul di layar.
 
 ## Features
 
-- A bouncing ball that reacts to paddle and wall collisions.
-- User-controlled paddle to keep the ball in play.
-- Sound effects for ball bounces.
-
+- Bola yang memantul saat terkena paddle dan dinding.
+- Paddle yang bisa dikendalikan pemain untuk menjaga bola tetap dalam permainan.
+- Efek suara saat bola memantul.
 ## Requirements
 
-To run this game, you need to have Python installed along with the required dependencies. You can install the dependencies using the following command:
+untuk menjalankan game ini anda harus mengintsall requirement nya dulu di cmd
 
 ```
 pip install -r requirements.txt
@@ -19,7 +18,7 @@ pip install -r requirements.txt
 
 ## Running the Game
 
-To start the game, run the following command in your terminal:
+kalo mau jalanin pake command  ini
 
 ```
 python src/main.py
@@ -27,7 +26,7 @@ python src/main.py
 
 ## Controls
 
-- Use the left and right arrow keys to move the paddle.
+untuk menggerakan oaddle nya pake mouse 
 
 ## Assets
 
